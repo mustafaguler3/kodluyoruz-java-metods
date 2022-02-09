@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/AdvancedCalculator/AdvancedCalculator.iml" filepath="$PROJECT_DIR$/AdvancedCalculator/AdvancedCalculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/PalindromNumbers/PalindromNumbers.iml" filepath="$PROJECT_DIR$/PalindromNumbers/PalindromNumbers.iml" />
       <module fileurl="file://$PROJECT_DIR$/RecursiveExponent/RecursiveExponent.iml" filepath="$PROJECT_DIR$/RecursiveExponent/RecursiveExponent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RecursivePrimeNumbers/RecursivePrimeNumbers.iml" filepath="$PROJECT_DIR$/RecursivePrimeNumbers/RecursivePrimeNumbers.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/kodluyoruz-java-metods.iml" filepath="$PROJECT_DIR$/.idea/kodluyoruz-java-metods.iml" />
     </modules>
   </component>
