@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AdvancedCalculator/AdvancedCalculator.iml" filepath="$PROJECT_DIR$/AdvancedCalculator/AdvancedCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MetodPattern/MetodPattern.iml" filepath="$PROJECT_DIR$/MetodPattern/MetodPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/PalindromNumbers/PalindromNumbers.iml" filepath="$PROJECT_DIR$/PalindromNumbers/PalindromNumbers.iml" />
       <module fileurl="file://$PROJECT_DIR$/RecursiveExponent/RecursiveExponent.iml" filepath="$PROJECT_DIR$/RecursiveExponent/RecursiveExponent.iml" />
       <module fileurl="file://$PROJECT_DIR$/RecursivePrimeNumbers/RecursivePrimeNumbers.iml" filepath="$PROJECT_DIR$/RecursivePrimeNumbers/RecursivePrimeNumbers.iml" />
